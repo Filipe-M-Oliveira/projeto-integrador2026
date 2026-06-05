@@ -1,0 +1,30 @@
+
+.hero-museu {
+    background-color: #000000cc;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+ 
+ 
+.container-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    background-color: rgba(0, 0, 0, 0.326);
+}
+ 
+.container-header h1 {
+    color: #fff;
+    font-size: 24px;
+}
+ 
+.container-header .col img {
+    border-radius: 50%;
+    width: fit-content;
+}
+
+ 
